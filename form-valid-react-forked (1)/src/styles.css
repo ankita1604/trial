@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  margin: 50px;
+}
+.box {
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(#e66465, #9198e5, transparent);
+  background-color: white; /*this your primary color*/
+}
